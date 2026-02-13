@@ -1,6 +1,6 @@
 # AgenciaViagem-Alunos
 p align="center">
-  <img src="./Layout Viagens.pdf" alt="Preview do Projeto Agência Viagem" width="100%">
+  <img src="./Layout_viagens.pdf" alt="Preview do Projeto Agência Viagem" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
